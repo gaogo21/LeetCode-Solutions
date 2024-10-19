@@ -20,3 +20,6 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you minimize the total number of operations done?
+
+solution:
+![image](https://github.com/user-attachments/assets/f71bbd44-d698-4ea6-a72a-bf7fec84c652)
