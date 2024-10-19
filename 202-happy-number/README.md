@@ -36,3 +36,7 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+solution:
+![image](https://github.com/user-attachments/assets/3e1fb1f4-775d-4c9e-92c7-b728e6595f18)
+
