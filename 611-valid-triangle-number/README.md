@@ -26,3 +26,7 @@
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
+
+solution:
+![image](https://github.com/user-attachments/assets/7fead8b5-4bb7-4d9e-999e-cdd09783617b)
+
